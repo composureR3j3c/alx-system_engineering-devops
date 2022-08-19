@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #fizbuzz
 
 number=1
